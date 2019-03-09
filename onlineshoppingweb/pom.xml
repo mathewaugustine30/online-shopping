@@ -2,12 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.mathew</groupId>
-  <artifactId>onlineshopping</artifactId>
+  <artifactId>onlineshoppingweb</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>onlineshopping Maven Webapp</name>
+  <name>onlineshoppingweb Maven Webapp</name>
   <url>http://maven.apache.org</url>
-  <properties>
+    <properties>
   <j2ee.version>7.0</j2ee.version>
     <java.version>1.8</java.version>
     <spring.version>4.3.6.RELEASE</spring.version>
